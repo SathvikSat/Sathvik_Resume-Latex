@@ -32,3 +32,8 @@ Though if you're creating your own CV/résumé, you'd probably prefer using the 
 * Can now be compiled with pdflatex, XeLaTeX and LuaLaTeX!
 * However if you're using `academicons`, you _must_ use either XeLaTeX or LuaLaTeX. If the doc then compiles but the icons don't show up in the output PDF, try compiling with LuaLaTeX instead.
 * The samples here use the [Lato](http://www.latofonts.com/lato-free-fonts/) font.
+
+
+
+
+NOTE: Reference taken from OverLeaf. Thanks to author.
